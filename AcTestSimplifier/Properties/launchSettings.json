@@ -2,7 +2,7 @@
   "profiles": {
     "AcTestSimplifier": {
       "commandName": "Project",
-      "commandLineArgs": "D:\\Safe\\diff"
+      "commandLineArgs": "D:\\Safe\\diff\\batch\\NEW D:\\Safe\\diff\\batch\\OLD "
     }
   }
 }

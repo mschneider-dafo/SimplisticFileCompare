@@ -14,12 +14,14 @@ internal class Program
       if (!Directory.Exists(newPath))
       {
          Console.WriteLine("NEW directory does not exist in " + newPath);
+         return;
       }
       var oldPath = args[1];
 
       if (!Directory.Exists(oldPath))
       {
          Console.WriteLine("OLD directory does not exist in " + oldPath);
+         return;
       }
 
       var newFiles = Directory.GetFiles(newPath);
