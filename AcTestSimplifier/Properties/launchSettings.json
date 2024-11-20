@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AcTestSimplifier": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\Safe\\diff"
+    }
+  }
+}
